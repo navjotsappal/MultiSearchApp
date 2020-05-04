@@ -29,4 +29,4 @@ Thanks to utilizing react redux, MultiSearchApp doesn't loose the search results
 ![multiSearchApp Picture](demo/5.jpg)<br/>
 ![multiSearchApp Picture](demo/6.jpg)<br/>
 
-## Preview:
+
